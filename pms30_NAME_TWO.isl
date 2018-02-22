@@ -3,7 +3,7 @@
 // Confirmation Boards (OCB).
 //
 // _NOTE_
-//
+//privet
 //  The DLL calls made by the SIM script are (as of 09-Apr-2007) part of a
 //  public interface implemented by 3rd-party vendors. OCB client implement
 //  the functions defined and expect the SIM script to invoke the functions as
